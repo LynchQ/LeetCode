@@ -20,7 +20,7 @@ class Solution:
             if target - v in r:
                 return [r[target - v], i]
             r[v] = i
-        print(r)
+
         return []
 
 

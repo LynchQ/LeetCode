@@ -13,6 +13,7 @@ func twoSum(nums []int, target int) []int {
 		}
 		hashTable[x] = i
 	}
+
 	return nil
 }
 

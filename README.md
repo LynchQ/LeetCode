@@ -1,6 +1,7 @@
 # LeetCode
 Myself LeetCode practice record
 
+## Directory
 ``` bash
 .
 ├── README.md
